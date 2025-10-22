@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://count.getloli.com/@M1r0ku?theme=booru-r6gdrawfriends&darkmode=auto" align="center" alt="Counter" />
+  <img src="https://count.getloli.com/@M1r0ku?theme=booru-r6gdrawfriends&darkmode=auto" align="center" alt="Counter" />
 </p>
 
 # :sparkles: Hi, I'm M1r0ku!
@@ -29,5 +29,16 @@ Hello! I'm a **Security Engineer** with expertise in **Web Security** and **Offe
 ![Vue](https://img.shields.io/badge/Vue-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ## :fire: My Stats
+
+<div align="left">
+  <img width="100px" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" />
+  <img width="100px" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" />
+  <img width="100px" src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" />
+  <img width="100px" src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" />
+  <img width="100px" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" />
+  <img width="100px" src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" />
+</div>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1r0ku&show_icons=true&theme=transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1r0ku&layout=compact&theme=transparent)
