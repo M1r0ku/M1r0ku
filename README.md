@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+ <img src="https://count.getloli.com/@M1r0ku?theme=booru-r6gdrawfriends&darkmode=auto" align="center" alt="Counter" />
+</p>
 
-<!--
-**M1r0ku/M1r0ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :sparkles: Hi, I'm M1r0ku!
+Hello! I'm a **Security Engineer** with expertise in **Web Security** and **Offensive-Defensive Cybersecurity**. I enjoy exploring new technologies and solving complex security challenges.
 
-Here are some ideas to get you started:
+## :zap: About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working on authorized penetration testing projects
+- Currently actively learning enterprise security architecture
+- Committed to becoming a cybersecurity expert proficient in both offensive and defensive techniques
+
+## :wrench: Tech Stack
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![CobaltStrike](https://img.shields.io/badge/Cobaltstrike-0f7461?style=for-the-badge&logo=alchemy&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+## :fire: My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1r0ku&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1r0ku&layout=compact&theme=transparent)
