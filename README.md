@@ -24,7 +24,6 @@ Hello! I'm a **Security Engineer** with expertise in **Web Security** and **Offe
 ![CobaltStrike](https://img.shields.io/badge/CobaltStrike-0f7461?style=flat-square&logo=alchemy&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ## :sparkles: My Stats
 <span>
