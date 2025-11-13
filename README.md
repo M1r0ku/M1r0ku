@@ -27,8 +27,7 @@ Hello! I'm a **Security Engineer** with expertise in **Web Security** and **Offe
 
 ## :sparkles: My Stats
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=M1r0ku&show_icons=true&rank_icon=github&theme=transparent" height=200/></span>
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1r0ku&layout=compact&theme=transparent" height=200/></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=M1r0ku&show_icons=true&rank_icon=github&theme=transparent" height=200/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1r0ku&layout=compact&theme=transparent" height=200/></span>
 
 <div align="left">
   <img width="100px" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" />
