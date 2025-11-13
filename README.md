@@ -26,9 +26,11 @@ Hello! I'm a **Security Engineer** with expertise in **Web Security** and **Offe
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## :sparkles: My Stats
-<span>
-  <img src="https://github-readme-stats.vercel.app/api?username=M1r0ku&show_icons=true&rank_icon=github&theme=transparent" height=150/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1r0ku&layout=compact&theme=transparent" height=150/>
-  </span>
+
+<div>
+  <span><img src="https://github-readme-stats.vercel.app/api?username=M1r0ku&show_icons=true&rank_icon=github&theme=transparent" height=200/></span>
+  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1r0ku&layout=compact&theme=transparent" height=200/></span>
+</div>
 
 <div align="left">
   <img width="100px" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" />
