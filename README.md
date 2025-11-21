@@ -27,13 +27,21 @@ Hello! I'm a **Security Engineer** with expertise in **Web Security** and **Offe
 
 ## :sparkles: My Stats
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=M1r0ku&show_icons=true&rank_icon=github&theme=transparent" height=200/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1r0ku&layout=compact&theme=transparent" height=200/></span>
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/M1r0ku.png" alt="Your Image Badge" height="100"/>
+    </td>
+    <td valign="middle">
+      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" height="50"/>
+      <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="50"/>
+      <img src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" height="50"/>
+      <br />
+      <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" height="50"/>
+      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="50"/>
+      <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" height="50"/>
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-  <img width="100px" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" />
-  <img width="100px" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" />
-  <img width="100px" src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" />
-  <img width="100px" src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" />
-  <img width="100px" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" />
-  <img width="100px" src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" />
-</div>
+<span><img src="https://github-readme-stats.vercel.app/api?username=M1r0ku&show_icons=true&rank_icon=github&theme=transparent" height=130/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1r0ku&layout=compact&theme=transparent" height=130/></span>
